@@ -23,7 +23,6 @@ tp_size = 0.00005 # Adjust this to your desired grid tp size
 lower_bound = 1.05500
 upper_bound = 1.06500
 order_size = 0.02  # Adjust this to your desired order size
-current_price = 1
 
 time_to_sleep = 10
 
