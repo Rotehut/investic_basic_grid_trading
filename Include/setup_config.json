@@ -1,0 +1,11 @@
+{
+    "Setup Grid": {
+        "symbol": "EURUSD",
+        "grid_size": 5e-05,
+        "tp_size": 5e-05,
+        "lower_bound": 1.055,
+        "upper_bound": 1.065,
+        "order_size": 0.02,
+        "current_price": 1
+    }
+}
