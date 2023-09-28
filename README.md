@@ -1,6 +1,5 @@
-Configuration following parameters:
+# Configuration following parameters:
 
-"""
 symbol = "EURUSD"
 grid_size = 0.00005  # Adjust this to your desired grid spread size
 tp_size = 0.00005 # Adjust this to your desired grid tp size
